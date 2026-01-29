@@ -1,4 +1,7 @@
 # Spotify Streaming Intelligence – Advanced SQL Analytics Project
+
+![image](https://github.com/kovidanand/SQL-Spotify_Analysis_P5/blob/main/spotify_logo.jpg)
+
 ### Overview
 
 This project applies advanced SQL analytics to Spotify performance data to evaluate artist dominance, track engagement, platform preference, content efficiency, and audio-feature dynamics.
